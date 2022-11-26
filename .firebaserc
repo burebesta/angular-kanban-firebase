@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "energymarket-8f805": {
+      "hosting": {
+        "test": [
+          "energymarket-8f805"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "energymarket-8f805"
+  }
+}
